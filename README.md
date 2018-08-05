@@ -14,6 +14,6 @@ On other hand, Montreal, on June 2006, Montréal was officially designated a UNE
 In this project, we will pool resources to build GoMontreal:
 
 1. To showcase the AI technologies made in Montreal.
-2. To promote the technological exchanges between AI companies in Montreal
-3. To compete in international stage
+2. To promote the technological exchanges between AI companies in Montreal and around the world
+3. To compete in international stage when it is mature
 4. Others
